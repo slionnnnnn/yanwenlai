@@ -8,25 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html). During my PhD study, I worked closely with [Honggang Sheng](https://research.google/people/HonggangSheng/) and [Srikanth Lakshmikanthan](https://www.linkedin.com/in/srikanth-lakshmikanthan-7995478/) at Google Inc. on Google's consumer products (AC/DC power adapters, Wireless chargers, Pixel phones, Earbuds, etc.). I received my B.Eng. in Electrical Engineering and Automation from Zhejiang University, Hangzhou, China in June 2019. During my undergraduate study, I was honored to be awarded "Top-ten Outstanding University Students at Zhejiang University (10/4000+)" in 2017 and "Outstanding Graduates of Zhejiang University" in 2019.
+I am currently a second-year PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from Hunan University, China, in 2018, the M.Sc. degree from Zhejiang University, Hangzhou, China, in 2021, all in Electrical Engineering.
 
-In my daily life, I enjoy swimming, traveling as well as photographing a lot, you can see the pictures that I took along the journey in [Photo show](https://zhedongma.github.io/portfolio/).
-
-Email: zhedongma@gmail.com or Wechat:MZDZJU. Find me on [Facebook](https://www.facebook.com/profile.php?id=100024571883628), [Researchgate](https://www.researchgate.net/profile/Zhedong_Ma2) and [Google Scholar](https://scholar.google.com/citations?user=XkmTpQIAAAAJ&hl=en) as well as [Linkedin](http://linkedin.com/in/zhedong-ma-5a9988164).
+Email: qinghuihuang@ufl.edu or Wechat:huang96819. [Google Scholar](https://www.linkedin.com/in/qinghui-huang-44a411221/?trk=people-guest_people_search-card) as well as [Linkedin](https://www.linkedin.com/in/qinghui-huang-44a411221/?trk=people-guest_people_search-card).
 
 Volunteer Service
 ======
-Reviewer (review >20 papers/year) for: IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Industry Applications, IEEE Transactions on Electromagnetic Compatibility, IEEE Open Journal of Power Electronics, etc.
+Reviewer  for: IEEE Transactions on Electromagnetic Compatibility, IET Power Electronics, etc.
 
-Volunteer for 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD.
 
-Lab Safety Manager at Power Electronics and Electrical Power Research Lab at the University of Florida since 2020.
-
-Mentoring two undergradue students at UFL on the senior project design about wireless charging coil design.
 
 Research Areas
 ======
-Power electronics, EMI/EMC, Wireless charging, Magnetic components, NFC antenna design, etc.
+Power electronics, EMI/EMC, Wireless charging, Magnetic components, etc.
 
 Publications
 ======
@@ -57,18 +51,14 @@ Publications
 
 Honors/Awards
 ======
-Dora G. Partheniades Fellowship Award, University of Florida. 2021
-(For contributions to green/renewable energy research)
-
-Awards of Outstanding Graduates of Zhejiang University (top 10%). 2019
-
-Top-ten Outstanding University Students, Zhejiang University (Lantian academy)(10/4000+). 2017
-
-Awards of Excellent Student, Zhejiang University. 2018
-
-Scholarship for Academic Excellence of Zhejiang University. 2016-2018
-
-Awards of Outstanding Student Leader, Zhejiang University. 2017
+Outstanding Graduates (Master), Zhejiang University,2021
+Excellent student of Zhejiang University,Zhejiang University, Zhejiang University,2020
+Scholarship of MPS, endowed by Monolithic Power Systems(MPS) Corporation,2020
+Excellent student of Zhejiang University,Zhejiang University, Zhejiang University,2019
+Scholarship of Mitsubishi Electric, endowed by Mitsubishi Electric Corporation,2019
+Outstanding Graduates (Bachelor),Zhejiang University,2018
+Second Prize of National Undergraduate Electronic Design Contest,2018
+Merit Student of Hunan University, Hunan University,2015,2016,2017
 
 
 
