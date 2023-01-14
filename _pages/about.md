@@ -32,8 +32,9 @@ Publications
 Patents
 ======
 
-S. Wang, Z. Ma and Q. Huang, “Wireless Charging and Near-field Communication (NFC) Integration,” US Patent (filed).
-W. Li, Q. Huang, C. Li, H. Yang, X. Gu, M. Chen, H. Yang, X. He, “Method for dc islanding detection based on positive feedback of bus voltage at specific frequency,” US Patent, pending.
+* S. Wang, Z. Ma and Q. Huang, “Wireless Charging and Near-field Communication (NFC) Integration,” US Patent (filed).
+* W. Li, Q. Huang, C. Li, H. Yang, X. Gu, M. Chen, H. Yang, X. He, “Method for dc islanding detection based on positive feedback of bus voltage at specific frequency,” US Patent, pending.
+
 Honors/Awards
 ======
 * Outstanding Graduates (Master), Zhejiang University, 2021
