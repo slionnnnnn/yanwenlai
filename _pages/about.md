@@ -31,14 +31,14 @@ Publications
 
 Honors/Awards
 ======
-* Outstanding Graduates (Master), Zhejiang University,2021
-* Excellent student of Zhejiang University,Zhejiang University, Zhejiang University,2020
-* Scholarship of MPS, endowed by Monolithic Power Systems(MPS) Corporation,2020
-* Excellent student of Zhejiang University,Zhejiang University, Zhejiang University,2019
-* Scholarship of Mitsubishi Electric, endowed by Mitsubishi Electric Corporation,2019
-* Outstanding Graduates (Bachelor),Zhejiang University,2018
+* Outstanding Graduates (Master), Zhejiang University, 2021
+* Excellent student of Zhejiang University,Zhejiang University, Zhejiang University, 2020
+* Scholarship of MPS, endowed by Monolithic Power Systems(MPS) Corporation, 2020
+* Excellent student of Zhejiang University,Zhejiang University, Zhejiang University, 2019
+* Scholarship of Mitsubishi Electric, endowed by Mitsubishi Electric Corporation, 2019
+* Outstanding Graduates (Bachelor),Zhejiang University, 2018
 * Second Prize of National Undergraduate Electronic Design Contest,2018
-* Merit Student of Hunan University, Hunan University,2015,2016,2017
+* Merit Student of Hunan University, Hunan University,2015, 2016, 2017
 
 
 
