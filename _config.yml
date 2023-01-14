@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhedong Ma's Homepage"
+title                    : "Qinghui Huang's Homepage"
 title_separator          : "-"
-name                     : &name "Zhedong Ma"
+name                     : &name "Qinghui Huang"
 description              : &description "personal description"
 url                      : https://zhedongma.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhedong Ma"
   avatar           : "MY PHOTO.JPG"
-  bio              : "Ph.D. Candidate at the University of Florida"
+  bio              : "Ph.D. Student at the University of Florida"
   location         : "Gainesville, Florida, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XkmTpQIAAAAJ"
-  email            : "zhedongma@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=300&user=j0mw7EAAAAAJ"
+  email            : "qinghuihuang@ufl.edu"
   researchgate     : "https://www.researchgate.net/profile/Zhedong_Ma2"
   uri              :
   bitbucket        :
