@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qinghui Huang's Homepage"
+title                    : "Zhedong Ma's Homepage"
 title_separator          : "-"
-name                     : &name "Qinghui Huang"
+name                     : &name "Zhedong Ma"
 description              : &description "personal description"
-url                      : https://huang96819.github.io/qinghui.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhedongma.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huang96819/qinghui.github.io"
+repository               : "zhedongma/zhedongma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qinghui Huang"
+  name             : "Zhedong Ma"
   avatar           : "MY PHOTO.JPG"
-  bio              : "Ph.D. Student at the University of Florida"
+  bio              : "Ph.D. Candidate at the University of Florida"
   location         : "Gainesville, Florida, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=300&user=j0mw7EAAAAAJ"
-  email            : "qinghuihuang@ufl.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XkmTpQIAAAAJ"
+  email            : "zhedongma@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Zhedong_Ma2"
   uri              :
   bitbucket        :
