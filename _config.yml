@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qinghui Hunag's Homepage"
+title                    : "Qinghui Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Qinghui Huang"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhedong Ma"
+  name             : "Qinghui Huang"
   avatar           : "MY PHOTO.JPG"
-  bio              : "Ph.D. Candidate at the University of Florida"
+  bio              : "Ph.D. Student at the University of Florida"
   location         : "Gainesville, Florida, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
