@@ -41,7 +41,7 @@ author_profile: true
 3)	Hardware design and software design for the auto-calibration system in LABVIEW
 
    &emsp; Outcomes: 30+ motors auto-calibrated, 700+ hours safe operation, increased efficiency (2 person/30days →1 person/3 days), improved accuracy (torque error 5%~10%→less than 5%)
-*  **2017 National Undergraduate Electronics Design Contest**                          May 2017-Sep. 2017
+*  **2017 National Undergraduate Electronics Design Contest**       &emsp;                   May 2017-Sep. 2017
    
   &emsp; _Hunan University_              &emsp;                          
    
