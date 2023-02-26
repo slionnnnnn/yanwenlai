@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Qinghui's Publications"
+title: "Publications"
 permalink: /Qinghui publications/
 author_profile: true
 ---
