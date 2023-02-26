@@ -19,3 +19,4 @@ author_profile: true
 * H. Chen, Q. Huang, W. Li, X. Xiang, H. Luo and X. He, "An Impedance-Based Islanding Detection Method for DC Microgrids with multiple DGs," 2020 4th International Conference on HVDC (HVDC), Xi'an, China, 2020, pp. 1025-1030.
 * Q. Huang, C. Li; H. Yang; Y. Dong; W. Li; X. He; W. Zhang; J. Han, "Islanding Detection Methods Based on Self-oscillation of Particular Frequency in DC Distribution Systems," 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), New Orleans, LA, USA, 2020, pp. 574-580, doi: 10.1109/APEC39645.2020.9124587.
 
+title: "Research"
