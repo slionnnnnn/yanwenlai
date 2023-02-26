@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Qinghui's Publications"
+permalink: /Qinghui publications/
 author_profile: true
 ---
 
