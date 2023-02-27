@@ -46,6 +46,7 @@ author_profile: true
   &emsp; _Hunan University_              &emsp;                          
    
  &emsp; Main activities and responsibilities:
+ 
 1)	Design and implementation of AC microgrid simulator consisting of two inverters
 
 2)	Implementation of specific operating requirements such as efficiency, control strategy, etc.
