@@ -18,8 +18,6 @@ Reviewer  for: IEEE Transactions on Electromagnetic Compatibility, IET Power Ele
 
 Research Areas
 ======
-Power electronics:
-
 Modeling and reduction of EMI for power electronics converters, Wireless charging, Magnetic components and modeling and control of power electronics converters, etc.
 
 
