@@ -30,7 +30,7 @@ author_profile: true
 
 *  **Motor Calibration and Automatic Calibration Platform Design for Electrical Vehicle** &emsp;Jan. 2018-Sep. 2018
 
- &emsp; Intern in Leadrive Technology (Shanghai) Co.               &emsp;                   **_Supervisor: Dr. Changjin Liu_**
+ &emsp; _Intern in Leadrive Technology (Shanghai) Co._               &emsp;                   **_Supervisor: Dr. Changjin Liu_**
 
  &emsp; Main activities and responsibilities:
 
@@ -47,7 +47,9 @@ author_profile: true
    
  &emsp; Main activities and responsibilities:
 1)	Design and implementation of AC microgrid simulator consisting of two inverters
+
 2)	Implementation of specific operating requirements such as efficiency, control strategy, etc.
+
 3)	Hardware design for the power circuit, including parameter design, PCB layout, and device selection and software design and debugging for the control system
 
    &emsp; Outcomes: Second Prize in the contest of China and First Prize in the contest of Hunan Province
