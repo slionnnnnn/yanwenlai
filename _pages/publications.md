@@ -15,6 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+*  **Conducted and radiated EMI modeling and reduction in power converters**        &emsp;                     Sep. 2021-Present
+
+ &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
+
+1)	EMI modelling of DC-DC converters, including flyback converter, two-switch forward converter, LLC converter, DAB, etc.
+
+2)	EMI model of high-frequency magnetic compoents used in power converters
+
+3)	Novel EMI reduction methods for power converters
+
+4)  EMI filters design to reduce raditated EMI
+
+
+
+
 *  **DC Microgrid Operation and Fault Detection**        &emsp;                     Nov. 2018-Mar.2021
 
  &emsp; _Zhejiang University_              &emsp;     &emsp;                      **_Supervisor: Prof. Wuhua Li_**
