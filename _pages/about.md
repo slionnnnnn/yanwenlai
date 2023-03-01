@@ -42,7 +42,7 @@ Honors/Awards
 * Excellent student of Zhejiang University, Zhejiang University, 2019, 2020
 * Scholarship of Mitsubishi Electric, endowed by Mitsubishi Electric Corporation, 2019
 * Outstanding Graduates (Bachelor), Hunan University, 2018
-* Second Prize of National Undergraduate Electronic Design Contest, 2017
+* Second Prize of National Undergraduate Electronic Design Contest (Renesas Cup), 2017
 * Merit Student of Hunan University, Hunan University, 2015, 2016, 2017
 
 
