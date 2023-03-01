@@ -21,7 +21,7 @@ author_profile: true
 
 1)	EMI modelling of DC-DC converters, including flyback converter, two-switch forward converter, LLC converter, DAB, etc.
 
-2)	EMI model of high-frequency magnetic compoents used in power converters
+2)	EMI modelling of high-frequency magnetic compoents used in power converters
 
 3)	Novel EMI reduction methods for power converters
 
