@@ -14,11 +14,11 @@ Email: qinghuihuang@ufl.edu or Wechat: huang96819. [Google Scholar](https://scho
 
 Volunteer Service
 ======
-Reviewer  for: IEEE Transactions on Electromagnetic Compatibility, IET Power Electronics, etc.
+Reviewer  for:IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Electromagnetic Compatibility, IET Power Electronics, etc.
 
 Research Areas
 ======
-Modeling and reduction of EMI for power electronics converters, Wireless charging, Magnetic components and modeling and control of power electronics converters, etc.
+Modeling and reduction of conducted and radiated EMI for power electronics converters, Wireless charging, Magnetic components and modeling and control of power electronics converters, etc.
 
 
 Publications
