@@ -23,6 +23,10 @@ Modeling and reduction of conducted and radiated EMI for power electronics conve
 
 Publications
 ======
+* __Q. Huang__, Y. Yang, Z. Ma, Y. Lai, and S. Wang, " Transformer Structure of Bifilar Primary Winding with Advanced Common Mode Noise Attenuation Performance for Isolated DC-DC Converters," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.
+* Z. Ma, Y. Lai, Y. Yang, __Q. Huang__, and S. Wang, " Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.
+* Z. Ma,__Q. Huang__, Y. Yang, and S. Wang, " A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.
+* Y. Lai, Y. Yang, Z. Ma, __Q. Huang__, S. Wang, and Z. Luo" Development of Simulation Prediction Techniques for Low Frequency Emissions," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.  
 * H. Chen, T. Shi, __Q. Huang__, X. Xiang, C. Li, W. Li, X. He, "An impedance-based islanding detection method for DC microgrid with multiple distributed generators," in CSEE Journal of Power and Energy Systems, doi: 10.17775/CSEEJPES.2022.00020.
 * __Q. Huang__, H. Chen, X. Xiang, C. Li, W. Li, and X. He, “Islanding detection with positive feedback of selected frequency for DC microgrid systems,” IEEE Trans. Power Electron., vol. 36, no. 10, pp. 11800–11817, Oct. 2021.
 * H. Chen, __Q. Huang__, W. Li, X. Xiang, H. Luo and X. He, "An Impedance-Based Islanding Detection Method for DC Microgrids with multiple DGs," 2020 4th International Conference on HVDC (HVDC), Xi'an, China, 2020, pp. 1025-1030.
