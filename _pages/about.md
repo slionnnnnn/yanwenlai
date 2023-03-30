@@ -14,7 +14,7 @@ Email: qinghuihuang@ufl.edu or Wechat: huang96819. [Google Scholar](https://scho
 
 Volunteer Service
 ======
-Reviewer  for:IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Electromagnetic Compatibility, IET Power Electronics, etc.
+Reviewer  for: IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Electromagnetic Compatibility, IET Power Electronics, etc.
 
 Research Areas
 ======
