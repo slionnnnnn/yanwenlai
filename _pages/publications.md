@@ -19,13 +19,13 @@ author_profile: true
 
  &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
 
-1)	EMI modelling of DC-DC converters, including flyback converter, two-switch forward converter, LLC converter, DAB, etc.
+1)	EMI modelling of high density DC-DC converters, including flyback converter, two-switch forward converter, LLC converter, DAB, etc.
 
-2)	EMI modelling of high-frequency magnetic compoents used in power converters
+2)	EMI modelling of high-frequency magnetic compoents used in power converters including transformer, inductor, EMI filters
 
-3)	Novel EMI reduction methods for power converters
+3)	High frequency EMI reduction methods for power converters
 
-4)  EMI filters design to reduce raditated EMI
+4)  RaditatedEMI filters design to reduce raditated emission
 
 
 
