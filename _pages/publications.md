@@ -15,13 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-*  **RaditatedEMI filters design to reduce raditated emission **  &emsp;      Nov. 2022-Aug. 2023
-*  **High-frequency CM EMI model and CM EMI performance improvement for isolated converters and  **  &emsp;  Feb. 2022-Nov. 2022
+*  **RaditatedEMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Aug. 2023
+*  **High-frequency CM EMI model and CM EMI performance improvement for isolated converters**  &emsp;  Feb. 2022-Nov. 2022
 *  1)	EMI modelling of high density DC-DC converters, including flyback converter, two-switch forward converter, LLC converter, DAB, etc.
 
 2)	EMI modelling of high-frequency magnetic compoents used in power converters including transformer, inductor, EMI filters
+
    
-*  **Integration of near-field communication (NFC) atenna and wireless charging(WLC) coil  **  &emsp;      Sep. 2021-Feb. 2022
+*  **Integration of near-field communication (NFC) atenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
 
 
 *  **DC Microgrid Operation and Fault Detection**        &emsp;                     Nov. 2018-Mar.2021
