@@ -19,7 +19,6 @@ author_profile: true
  
 *  **EMI modeling and reduction for traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Company
   
-  
 *  **Raditated EMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Jul. 2023
   
 *  **High-frequency CM EMI model and CM EMI performance improvement for isolated converters**   Feb. 2022-Nov. 2022
@@ -27,15 +26,12 @@ author_profile: true
 1)	EMI modeling of high-density DC-DC converters, including flyback converters, two-switch forward converters, LLC converters, DAB, etc.
 
 2)	EMI modeling of high-frequency magnetic components used in power converters including transformers, inductors, EMI filters
-
    
 *  **Integration of near-field communication (NFC) atenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
 
 
  &emsp; _Zhejiang University_              &emsp;     &emsp;                      **_Supervisor: Prof. Wuhua Li_**
 *  **DC Microgrid Operation and Fault Detection**        &emsp;                     Nov. 2018-Mar.2021
-
-
 
 1)	Virtual damping control for improvement of dynamic performance in DC microgrid
 
@@ -46,10 +42,10 @@ author_profile: true
    &emsp; Outcomes: proposed two DC-based islanding detection methods
 
 
-   &emsp; Outcomes: 30+ motors auto-calibrated, 700+ hours safe operation, increased efficiency (2 person/30days →1 person/3 days), improved accuracy (torque error 5%~10%→less than 5%)
-*  **2017 National Undergraduate Electronics Design Contest**       &emsp;                   May 2017-Sep. 2017
+  &emsp; _Hunan University_              &emsp;    
+  *  **2017 National Undergraduate Electronics Design Contest**       &emsp;                   May 2017-Sep. 2017
    
-  &emsp; _Hunan University_              &emsp;                          
+                      
    
  &emsp; Main activities and responsibilities:
  
