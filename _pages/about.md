@@ -20,10 +20,10 @@ IEEE Transactions on Electromagnetic Compatibility
 
 Research Areas
 ======
-Investigation of near magnetic field emissions for inductors  
-Modeling and reduction of conducted and radiated EMI for power electronics converters  
-Development of conducted and radiated EMI prediction techniques based on simulations  
-Modeling of radiated EMI for three-phase SiC motor drive system  
+* Investigation of near magnetic field emissions for inductors  
+* Modeling and reduction of conducted and radiated EMI for power electronics converters  
+* Development of conducted and radiated EMI prediction techniques based on simulations  
+* Modeling of radiated EMI for three-phase SiC motor drive system  
 
 
 Publications
