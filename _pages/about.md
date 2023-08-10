@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a  PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof. Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from South China University of Technology, China, in 2016, the M.Sc. degree from University of Florida, Gainesville, FL in 2018.
+I am currently a  PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof. Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  
+During my PhD study, I worked closely with [Zheng Luo](https://www.linkedin.com/in/zheng-luo-39b7b239/) at Monolithic Power Systems, Inc. on EV products (DC/DC power converters, magnetic components, etc.).  
+I received the B.Sc. degree from South China University of Technology, China, in 2016, the M.Sc. degree from University of Florida, Gainesville, FL in 2018.
 
 
 Volunteer Service
