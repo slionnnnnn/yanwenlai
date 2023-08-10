@@ -21,7 +21,7 @@ author_profile: true
   
 *  **Raditated EMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Jul. 2023
   
-*  **High-frequency CM EMI model and CM EMI performance improvement for isolated converters**   Feb. 2022-Nov. 2022
+*  **High-frequency CM EMI model and performance improvement for isolated converters**   Feb. 2022-Nov. 2022
   
 1)	EMI modeling of high-density DC-DC converters, including flyback converters, two-switch forward converters, LLC converters, DAB, etc.
 
