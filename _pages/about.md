@@ -49,7 +49,13 @@ Patents
 * S. Wang, B. Zhang and __Y. Lai__, “Inductor designs for reducing magnetic interference,” US Patent, US Patent 11,232,896
 
 
+Skills
+======
 
+* Ansys
+* Matlab
+* LTspice
+* Altium Designer
 
 
 
