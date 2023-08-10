@@ -35,19 +35,9 @@ Publications
 Patents
 ======
 
-* S. Wang, and __Q. Huang__, “Transformer Structure with Bifilar Windings,” US Patent, pending.
-* S. Wang, Z. Ma and __Q. Huang__, “Wireless Charging and Near-field Communication (NFC) Integration,” US Patent, pending.
-* W. Li, __Q. Huang__, C. Li, H. Yang, X. Gu, M. Chen, H. Yang, X. He, “Method for dc islanding detection based on positive feedback of bus voltage at specific frequency,” US Patent, pending.
+* S. Wang, B. Zhang and __Y. Lai__, “Inductor designs for reducing magnetic interference,” US Patent, US Patent 11,232,896
 
-Honors/Awards
-======
-* Outstanding Graduates (Master), Zhejiang University, 2021
-* Scholarship of MPS, endowed by Monolithic Power Systems(MPS) Corporation, 2020
-* Excellent student of Zhejiang University, Zhejiang University, 2019, 2020
-* Scholarship of Mitsubishi Electric, endowed by Mitsubishi Electric Corporation, 2019
-* Outstanding Graduates (Bachelor), Hunan University, 2018
-* Second Prize of National Undergraduate Electronic Design Contest (Renesas Cup), 2017
-* Merit Student of Hunan University, Hunan University, 2015, 2016, 2017
+
 
 
 
