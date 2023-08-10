@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qinghui Huang's Homepage"
+title                    : "Yanwen Lai's Homepage"
 title_separator          : "-"
-name                     : &name "Qinghui Huang"
+name                     : &name "Yanwen Lai"
 description              : &description "personal description"
-url                      : https://huang96819.github.io/qinghuihuang.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://slionnnnnn.github.io/yanwenlai/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qinghui.github.io"
+repository               : "yanwenlai"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qinghui Huang"
+  name             : "Yanwen Lai"
   avatar           : "qinghui1.jpg"
   bio              : "Ph.D. Student at the University of Florida"
   location         : "Gainesville, Florida, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=300&user=j0mw7EAAAAAJ"
-  email            : "qinghuihuang@ufl.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=sWxlJD4AAAAJ&hl=en"
+  email            : "laiyw124@ufl.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "qinghui-huang-44a411221/?trk=people-guest_people_search-card"
+  linkedin         : "https://www.linkedin.com/in/yanwen-lai-741102140/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
