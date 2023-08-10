@@ -20,7 +20,10 @@ IEEE Transactions on Electromagnetic Compatibility
 
 Research Areas
 ======
-Modeling and reduction of conducted and radiated EMI for power electronics converters, Wireless charging, Magnetic components and modeling and control of power electronics converters, etc.
+Investigation of near magnetic field emissions for inductors  
+Modeling and reduction of conducted and radiated EMI for power electronics converters  
+Development of conducted and radiated EMI prediction techniques based on simulations  
+Modeling of radiated EMI for three-phase SiC motor drive system  
 
 
 Publications
