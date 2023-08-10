@@ -19,7 +19,7 @@ author_profile: true
  
 *  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Company
   
-*  **Raditated EMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Jul. 2023
+*  **Radiated EMI filters design for power converters**  &emsp;      Nov. 2022-Jul. 2023
   
 *  **High-frequency CM EMI model and performance improvement for isolated converters**   Feb. 2022-Nov. 2022
   
