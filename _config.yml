@@ -88,10 +88,6 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sWxlJD4AAAAJ&hl=en"
   email            : "laiyw124@ufl.edu"
-  researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
   dribbble         :
   flickr           :
   facebook         : #"profile.php?id=100024571883628"
@@ -104,16 +100,9 @@ author:
   lastfm           :
   linkedin         : "laiyanwen/"
   orcid            : "https://orcid.org/0000-0002-6783-1998" #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
   xing             :
-  youtube          :
   researchgate     : "https://www.researchgate.net/profile/Yanwen-Lai"
 
 
