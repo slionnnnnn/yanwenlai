@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from Hunan University, China, in 2018, the M.Sc. degree from Zhejiang University, Hangzhou, China, in 2021, all in Electrical Engineering.
+I am currently a second-year PhD student in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from South China University of Technique, China, in 2016, the M.Sc. degree from University of Florida, Gainesville, FL in 2018.
 
 Email: laiyw124@ufl.edu [Google Scholar](https://scholar.google.com/citations?user=sWxlJD4AAAAJ&hl=en) as well as [Linkedin](https://www.linkedin.com/in/yanwen-lai-741102140/).
 
