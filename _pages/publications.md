@@ -15,9 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-*  **RaditatedEMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Aug. 2023
+*  **EMI modeling and reduction for traction inverter for electrical vehicle**  &emsp;      Aug. 2022-present supported by Ford Company
+* 
+*  
+*  **RaditatedEMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Jul. 2023
   
-*  **High-frequency CM EMI model and CM EMI performance improvement for isolated converters**  &emsp;  Feb. 2022-Nov. 2022
+*  **High-frequency CM EMI model and CM EMI performance improvement for isolated converters**   Feb. 2022-Nov. 2022
+*  
 1)	EMI modelling of high density DC-DC converters, including flyback converter, two-switch forward converter, LLC converter, DAB, etc.
 
 2)	EMI modelling of high-frequency magnetic compoents used in power converters including transformer, inductor, EMI filters
