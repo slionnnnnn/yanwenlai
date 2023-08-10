@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a second-year PhD student in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from Hunan University, China, in 2018, the M.Sc. degree from Zhejiang University, Hangzhou, China, in 2021, all in Electrical Engineering.
 
-Email: qinghuihuang@ufl.edu or Wechat: huang96819. [Google Scholar](https://scholar.google.com/citations?hl=en&tzom=300&user=j0mw7EAAAAAJ) as well as [Linkedin](https://www.linkedin.com/in/qinghui-huang-44a411221/?trk=people-guest_people_search-card).
+Email: laiyw124@ufl.edu [Google Scholar]https://scholar.google.com/citations?user=sWxlJD4AAAAJ&hl=zh-CN&oi=ao as well as [Linkedin](https://www.linkedin.com/in/yanwen-lai-741102140/).
 
 Volunteer Service
 ======
