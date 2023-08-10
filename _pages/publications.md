@@ -15,7 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-*  **EMI modeling and reduction for traction inverter for electrical vehicle**  &emsp;      Aug. 2022-present supported by Ford Company
+ &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
+ 
+*  **EMI modeling and reduction for traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Company
   
   
 *  **Raditated EMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Jul. 2023
@@ -30,9 +32,10 @@ author_profile: true
 *  **Integration of near-field communication (NFC) atenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
 
 
+ &emsp; _Zhejiang University_              &emsp;     &emsp;                      **_Supervisor: Prof. Wuhua Li_**
 *  **DC Microgrid Operation and Fault Detection**        &emsp;                     Nov. 2018-Mar.2021
 
- &emsp; _Zhejiang University_              &emsp;     &emsp;                      **_Supervisor: Prof. Wuhua Li_**
+
 
 1)	Virtual damping control for improvement of dynamic performance in DC microgrid
 
