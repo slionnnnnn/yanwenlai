@@ -17,7 +17,7 @@ author_profile: true
 
  &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
  
-*  **EMI modeling and reduction for traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Company
+*  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Company
   
 *  **Raditated EMI filters design to reduce raditated emission**  &emsp;      Nov. 2022-Jul. 2023
   
