@@ -26,14 +26,18 @@ Modeling and reduction of conducted and radiated EMI for power electronics conve
 
 Publications
 ======
-* __Q. Huang__, Y. Yang, Z. Ma, Y. Lai, and S. Wang, " Transformer Structure of Bifilar Primary Winding with Advanced Common Mode Noise Attenuation Performance for Isolated DC-DC Converters," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.
-* Z. Ma, Y. Lai, Y. Yang, __Q. Huang__, and S. Wang, " Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.
-* Z. Ma, __Q. Huang__, Y. Yang, and S. Wang, " A Wireless Charging and NFC Integration Technique Based on High-frequency Impedance Characterization of Wireless Charging Coils," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.
-* Y. Lai, Y. Yang, Z. Ma, __Q. Huang__, S. Wang, and Z. Luo" Development of Simulation Prediction Techniques for Low Frequency Emissions," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023.  
-* H. Chen, T. Shi, __Q. Huang__, X. Xiang, C. Li, W. Li, X. He, "An impedance-based islanding detection method for DC microgrid with multiple distributed generators," in CSEE Journal of Power and Energy Systems, doi: 10.17775/CSEEJPES.2022.00020.
-* __Q. Huang__, H. Chen, X. Xiang, C. Li, W. Li, and X. He, “Islanding detection with positive feedback of selected frequency for DC microgrid systems,” IEEE Trans. Power Electron., vol. 36, no. 10, pp. 11800–11817, Oct. 2021.
-* H. Chen, __Q. Huang__, W. Li, X. Xiang, H. Luo and X. He, "An Impedance-Based Islanding Detection Method for DC Microgrids with multiple DGs," 2020 4th International Conference on HVDC (HVDC), Xi'an, China, 2020, pp. 1025-1030.
-* __Q. Huang__, C. Li, H. Yang; Y. Dong, W. Li, X. He, W. Zhang, J. Han, "Islanding Detection Methods Based on Self-oscillation of Particular Frequency in DC Distribution Systems," 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), New Orleans, LA, USA, 2020, pp. 574-580.
+*__Y. Lai__, S. Wang and B. Zhang, "Investigation of Magnetic Field Immunity and Near Magnetic Field Reduction for the Inductors in High Power Density Design," in IEEE Transactions on Power Electronics, vol. 34, no. 6, pp. 5340-5351, June 2019
+*__Y. Lai__, Y. Yang, Z. Ma, Q. Huang, S. Wang and Z. Luo, "Development of Simulation Prediction Techniques for Low Frequency Emissions," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023
+*__Y. Lai__, Y. Yang, S. Wang and Z. Luo, "A Novel Low-Frequency Radiated Emissions Prediction Technique for the Inductor of a Non-Isolated Power Converter," 2022 IEEE Energy Conversion Congress and Exposition (ECCE), Detroit, MI, USA, 2022
+*__Y. Lai__, J. Yao, S. Wang, Z. Luo and Y. Li, "Electric Near Field Emission From a 1Mhz Power Converter For Electric Vehicles," 2021 IEEE Energy Conversion Congress and Exposition (ECCE), Vancouver, BC, Canada, 2021
+*Z. Ma, __Y. Lai__, Y. Yang, Q. Huang and S. Wang, "Review of Radiated EMI Modeling and Mitigation Techniques in Power Electronics Systems," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023
+*Y. Yang, __Y. Lai__, S. Wang and Z. Luo, "A Modeling Technique for Low-Frequency Near-field Radiated EMI Measurement Based on the Study of the Mechanism of the Monopole Antenna," 2022 IEEE Energy Conversion Congress and Exposition (ECCE), Detroit, MI, USA, 2022
+*J. Yao, __Y. Lai__, Z. Ma and S. Wang, "Advances in Modeling and Reduction of Conducted and Radiated EMI in Non-isolated Power Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC), Phoenix, AZ, USA, 2021
+*J. Yao, __Y. Lai__, Z. Ma and S. Wang, "Investigation of Noise Spectrum and Radiated EMI in High Switching Frequency Flyback Converters," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC), Phoenix, AZ, USA, 2021
+*J. Yao, Z. Ma, __Y. Lai__ and S. Wang, "A Survey of Modeling and Reduction Techniques of Radiated EMI in Power Electronics," 2021 IEEE International Joint EMC/SI/PI and EMC Europe Symposium, Raleigh, NC, USA, 2021
+*Z. Ma, J. Yao, __Y. Lai__, S. Wang, H. Sheng and S. Lakshmikanthan, "Investigate and Improve the Distorted Waveforms for Core Loss Measurement with Arbitrary Excitations," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC), Phoenix, AZ, USA, 2021
+*Q. Huang, Y. Yang, Z. Ma, __Y. Lai__ and S. Wang, "Transformer Structure of Bifilar Primary Winding with Advanced Common Mode Noise Attenuation Performance for Isolated DC-DC Converters," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023
+
 
 Patents
 ======
