@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a  PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof.Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from South China University of Technology, China, in 2016, the M.Sc. degree from University of Florida, Gainesville, FL in 2018.
+I am currently a  PhD candidate in Electrical&Computer Engineering at the University of Florida supervised by [Prof. Shuo Wang](https://peeprlgator.github.io/Shuo.Wang/index.html).  I received the B.Sc. degree from South China University of Technology, China, in 2016, the M.Sc. degree from University of Florida, Gainesville, FL in 2018.
 
 Email: laiyw124@ufl.edu
 
