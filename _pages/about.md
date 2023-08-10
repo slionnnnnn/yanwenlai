@@ -14,7 +14,10 @@ Email: laiyw124@ufl.edu
 
 Volunteer Service
 ======
-Reviewer  for: IEEE Open Journal of Power Electronics, IEEE IAS Publications, IEEE Transactions on Electromagnetic Compatibility, etc.
+Reviewer  for: 
+IEEE Open Journal of Power Electronics
+IEEE IAS Publications
+IEEE Transactions on Electromagnetic Compatibility
 
 Research Areas
 ======
