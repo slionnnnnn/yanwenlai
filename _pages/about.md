@@ -20,7 +20,7 @@ IEEE Open Journal of Power Electronics
 IEEE IAS Publications  
 IEEE Transactions on Electromagnetic Compatibility
 
-Research Areas
+Research Topics
 ======
 * Investigation of near magnetic field emissions for inductors  
 * Modeling and reduction of conducted and radiated EMI for power electronics converters  
