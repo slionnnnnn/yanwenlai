@@ -15,46 +15,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
- &emsp; _University of Florida_              &emsp;     &emsp;                      **_Supervisor: Prof. Shuo Wang_**
+ &emsp; **_University of Florida_**              &emsp;     &emsp;                      *_Supervisor: Prof. Shuo Wang_*
  
-*  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;      Aug. 2023-present supported by Ford Company
+*  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;  -Supported by Ford Motor Company
   
-*  **Radiated EMI filters design for power converters**  &emsp;      Nov. 2022-Jul. 2023
+*  **Modeling and reduction for near magnetic field emission of passive magnetic components**  &emsp;  -Support by NSF  
+  Investigate the near magnetic field emission of the inductor, propose a novel common-mode inductor structure for EMI noise reduction, immunity against external magnetic interference and DM performance improvement
   
-*  **High-frequency CM EMI model and performance improvement for isolated converters**   Feb. 2022-Nov. 2022
+*  **EMI models development for non-isolated converters for EV based on CISPR 25**   &emsp;  -Supported by Monolithic Power Systems, Inc.
   
-1)	EMI modeling of high-density DC-DC converters, including flyback converters, two-switch forward converters, LLC converters, DAB, etc.
+1)	Radiated EMI modeling of high-density DC-DC converters.
 
-2)	EMI modeling of high-frequency magnetic components used in power converters including transformers, inductors, EMI filters
+2)	Development of prediction model for both conducted EMI and radiated EMI based on circuit simulation and electromagnetic 3D full wave simulation.
+
+3)	Investigation of the monopole antenna’s mechanism in measurement and mismatch between the prediction and the measurement due to test setup.
    
-*  **Integration of near-field communication (NFC) atenna and wireless charging(WLC) coil**  &emsp;      Sep. 2021-Feb. 2022
 
-
-
- &emsp; _Zhejiang University_              &emsp;     &emsp;                      **_Supervisor: Prof. Wuhua Li_**
-*  **DC Microgrid Operation and Fault Detection**        &emsp;                     Nov. 2018-Mar.2021
-
-1)	Virtual damping control for improvement of dynamic performance in DC microgrid
-
-2)	Islanding detection method for safe operation in the abnormal condition in DC microgrid
-
-3)	Seamless transfer strategy at islanding event for improvement of reliability and quality of power supply
-
-   &emsp; Outcomes: proposed two DC-based islanding detection methods
-
-
-  &emsp; _Hunan University_              &emsp;    
-  *  **2017 National Undergraduate Electronics Design Contest**       &emsp;                   May 2017-Sep. 2017
-   
-                      
-   
- &emsp; Main activities and responsibilities:
- 
-1)	Design and implementation of AC microgrid simulator consisting of two inverters
-
-2)	Implementation of specific operating requirements such as efficiency, control strategy, etc.
-
-3)	Hardware design for the power circuit, including parameter design, PCB layout, and device selection and software design and debugging for the control system
-
-   &emsp; Outcomes: Second Prize in the contest of China and First Prize in the contest of Hunan Province
 
