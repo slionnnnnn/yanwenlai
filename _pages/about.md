@@ -20,12 +20,9 @@ IEEE Open Journal of Power Electronics
 IEEE IAS Publications  
 IEEE Transactions on Electromagnetic Compatibility
 
-Research Topics
+Research Interests
 ======
-* Investigation of near magnetic field emissions for inductors  
-* Modeling and reduction of conducted and radiated EMI for power electronics converters  
-* Development of conducted and radiated EMI prediction techniques based on simulations  
-* Modeling of radiated EMI for three-phase SiC motor drive system  
+EMI/EMC, magnetic component, power converter, electric motor
 
 
 Publications
