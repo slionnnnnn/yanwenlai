@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**_University of Florida_**              &emsp;     &emsp;                      *_Supervisor: Prof. Shuo Wang_*
+**_University of Florida_**              &emsp;     &emsp;                      _Supervisor: Prof. Shuo Wang_
  
 *  **EMI modeling and reduction of traction inverter for electrical vehicle**  &emsp;  -Supported by Ford Motor Company
   
