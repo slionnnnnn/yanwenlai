@@ -40,10 +40,22 @@ Publications
 * Q. Huang, Y. Yang, Z. Ma, __Y. Lai__ and S. Wang, "Transformer Structure of Bifilar Primary Winding with Advanced Common Mode Noise Attenuation Performance for Isolated DC-DC Converters," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023
 
 
+Presentations
+======
+* __Yanwen Lai__, "Investigation of magnetic field immunity and near magnetic field reduction for the inductors in high power density design", 2018 IEEE Applied Power Electronics Conference and Exposition (APEC), San Antonio, TX, USA
+* __Yanwen Lai__, "Development of simulation prediction techniques for low frequency emissions", 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA
+  
+
 Patents
 ======
 
 * S. Wang, B. Zhang and __Y. Lai__, “Inductor designs for reducing magnetic interference,” US Patent, US Patent 11,232,896
+
+Education
+======
+* Ph.D. in Electrical&Computer Engineering, University of Florida, USA 2020-Present
+* Master of Science, University of Florida, USA 2016-2018
+* B.S in Electrical Engineering and Automation, South China University of Technology, P.R.China 2012-2016 
 
 
 Skills
