@@ -49,7 +49,7 @@ Presentations
 Patents
 ======
 
-* S. Wang, B. Zhang and __Y. Lai__, “Inductor designs for reducing magnetic interference,” US Patent, US Patent 11,232,896
+* S. Wang, B. Zhang and __Y. Lai__, “Inductor designs for reducing magnetic interference,” US Patent 11,232,896
 
 Education
 ======
