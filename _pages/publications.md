@@ -32,13 +32,6 @@ author_profile: true
 &emsp;&emsp;3)  Investigation of the monopole antenna’s mechanism in measurement and mismatch between the prediction and the measurement due to test setup.
 
 
-*  **_Ford Motor Company_**              &emsp;     &emsp;                      _Intern 2024 May - Aug_
-  
-&emsp;&emsp;1)  PHEV charger EMI measurement and modeling based on CISPR 25 
-
-&emsp;&emsp;2)  PCB modeling for WBG devices characterization
-
-&emsp;&emsp;3)  BEV charger EMI measurement and modeling
 
 
 
