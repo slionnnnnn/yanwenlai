@@ -27,6 +27,7 @@ EMI/EMC, magnetic component, power converter, electric motor
 
 Publications
 ======
+* __Y. Lai__, Y. Yang, S. Wang and Z. Luo, "Modeling of Low-frequency Radiated EMI from the Inductors of Power Converters in Electric Vehicles," in IEEE Transactions on Transportation Electrification
 * __Y. Lai__, S. Wang and B. Zhang, "Investigation of Magnetic Field Immunity and Near Magnetic Field Reduction for the Inductors in High Power Density Design," in IEEE Transactions on Power Electronics, vol. 34, no. 6, pp. 5340-5351, June 2019
 * __Y. Lai__, Y. Yang, Z. Ma, Q. Huang, S. Wang and Z. Luo, "Development of Simulation Prediction Techniques for Low Frequency Emissions," 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023
 * __Y. Lai__, Y. Yang, S. Wang and Z. Luo, "A Novel Low-Frequency Radiated Emissions Prediction Technique for the Inductor of a Non-Isolated Power Converter," 2022 IEEE Energy Conversion Congress and Exposition (ECCE), Detroit, MI, USA, 2022
